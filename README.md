@@ -26,7 +26,11 @@ __Iniciar sesión como administrador__
 Debido a que solo un administrador puede crear otro administrador, en el sistema de login se ha implementado la creación de un administrador si la contraseña y usuario es 'admin' (sin comillas). Evitando la necesidad de crearlo desde la base de datos o manipulando el código.  
 
 ### Uso
-__Administrador:__
+
+#### Administrador:
+
 ![image](https://github.com/helkyar/Gestor-de-Incidencias/blob/main/gif/admin.gif)  
-__Usuario:__
+
+#### Usuario:
+
 ![image](https://github.com/helkyar/Gestor-de-incidencias/blob/main/gif/user.gif) 
